@@ -1,0 +1,16 @@
+<table style="height: 254px; width: 584px;">
+<tbody>
+<tr>
+<td style="width: 242px;"><img src="fotoku.jpg" alt="" width="244" height="244" /></td>
+<td style="width: 326px;">
+<p>&nbsp;Nama :</p>
+<p>Nor Laili Syafaati</p>
+<p>Jurusan&nbsp; :</p>
+<p>RPL</p>
+<p>Alamat :</p>
+<p>Bonang</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
